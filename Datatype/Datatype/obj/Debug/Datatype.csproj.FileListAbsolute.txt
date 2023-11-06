@@ -1,0 +1,5 @@
+C:\C#_Practicle\Datatype\Datatype\bin\Debug\Datatype.exe.config
+C:\C#_Practicle\Datatype\Datatype\bin\Debug\Datatype.exe
+C:\C#_Practicle\Datatype\Datatype\bin\Debug\Datatype.pdb
+C:\C#_Practicle\Datatype\Datatype\obj\Debug\Datatype.exe
+C:\C#_Practicle\Datatype\Datatype\obj\Debug\Datatype.pdb

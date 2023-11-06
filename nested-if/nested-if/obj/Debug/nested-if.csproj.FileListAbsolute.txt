@@ -1,0 +1,5 @@
+C:\C#_Practicle\nested-if\nested-if\bin\Debug\nested-if.exe.config
+C:\C#_Practicle\nested-if\nested-if\bin\Debug\nested-if.exe
+C:\C#_Practicle\nested-if\nested-if\bin\Debug\nested-if.pdb
+C:\C#_Practicle\nested-if\nested-if\obj\Debug\nested-if.exe
+C:\C#_Practicle\nested-if\nested-if\obj\Debug\nested-if.pdb

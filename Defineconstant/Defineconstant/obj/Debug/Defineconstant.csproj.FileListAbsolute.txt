@@ -1,0 +1,6 @@
+C:\C#_Practicle\Defineconstant\Defineconstant\bin\Debug\Defineconstant.exe.config
+C:\C#_Practicle\Defineconstant\Defineconstant\bin\Debug\Defineconstant.exe
+C:\C#_Practicle\Defineconstant\Defineconstant\bin\Debug\Defineconstant.pdb
+C:\C#_Practicle\Defineconstant\Defineconstant\obj\Debug\Defineconstant.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\Defineconstant\Defineconstant\obj\Debug\Defineconstant.exe
+C:\C#_Practicle\Defineconstant\Defineconstant\obj\Debug\Defineconstant.pdb

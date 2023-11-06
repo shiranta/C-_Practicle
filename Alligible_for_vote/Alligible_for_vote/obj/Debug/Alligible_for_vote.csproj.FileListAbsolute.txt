@@ -1,0 +1,6 @@
+C:\C#_Practicle\Alligible_for_vote\Alligible_for_vote\bin\Debug\Alligible_for_vote.exe.config
+C:\C#_Practicle\Alligible_for_vote\Alligible_for_vote\bin\Debug\Alligible_for_vote.exe
+C:\C#_Practicle\Alligible_for_vote\Alligible_for_vote\bin\Debug\Alligible_for_vote.pdb
+C:\C#_Practicle\Alligible_for_vote\Alligible_for_vote\obj\Debug\Alligible_for_vote.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\Alligible_for_vote\Alligible_for_vote\obj\Debug\Alligible_for_vote.exe
+C:\C#_Practicle\Alligible_for_vote\Alligible_for_vote\obj\Debug\Alligible_for_vote.pdb

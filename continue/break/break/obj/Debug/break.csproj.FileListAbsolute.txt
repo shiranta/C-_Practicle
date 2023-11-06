@@ -1,0 +1,6 @@
+C:\C#_Practicle\break\break\bin\Debug\@break.exe.config
+C:\C#_Practicle\break\break\bin\Debug\@break.exe
+C:\C#_Practicle\break\break\bin\Debug\@break.pdb
+C:\C#_Practicle\break\break\obj\Debug\break.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\break\break\obj\Debug\@break.exe
+C:\C#_Practicle\break\break\obj\Debug\@break.pdb

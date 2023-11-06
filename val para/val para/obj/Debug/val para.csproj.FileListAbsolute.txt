@@ -1,0 +1,6 @@
+C:\C#_Practicle\val para\val para\bin\Debug\val para.exe.config
+C:\C#_Practicle\val para\val para\obj\Debug\val para.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\val para\val para\bin\Debug\val para.exe
+C:\C#_Practicle\val para\val para\bin\Debug\val para.pdb
+C:\C#_Practicle\val para\val para\obj\Debug\val para.exe
+C:\C#_Practicle\val para\val para\obj\Debug\val para.pdb

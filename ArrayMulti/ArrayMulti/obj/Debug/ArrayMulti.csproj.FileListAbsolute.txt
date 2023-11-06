@@ -1,0 +1,6 @@
+C:\C#_Practicle\ArrayMulti\ArrayMulti\bin\Debug\ArrayMulti.exe.config
+C:\C#_Practicle\ArrayMulti\ArrayMulti\bin\Debug\ArrayMulti.exe
+C:\C#_Practicle\ArrayMulti\ArrayMulti\bin\Debug\ArrayMulti.pdb
+C:\C#_Practicle\ArrayMulti\ArrayMulti\obj\Debug\ArrayMulti.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\ArrayMulti\ArrayMulti\obj\Debug\ArrayMulti.exe
+C:\C#_Practicle\ArrayMulti\ArrayMulti\obj\Debug\ArrayMulti.pdb

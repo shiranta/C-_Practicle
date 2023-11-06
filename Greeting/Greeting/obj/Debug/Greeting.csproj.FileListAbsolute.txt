@@ -1,0 +1,6 @@
+C:\C#_Practicle\Greeting\Greeting\bin\Debug\Greeting.exe.config
+C:\C#_Practicle\Greeting\Greeting\bin\Debug\Greeting.exe
+C:\C#_Practicle\Greeting\Greeting\bin\Debug\Greeting.pdb
+C:\C#_Practicle\Greeting\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\Greeting\Greeting\obj\Debug\Greeting.exe
+C:\C#_Practicle\Greeting\Greeting\obj\Debug\Greeting.pdb

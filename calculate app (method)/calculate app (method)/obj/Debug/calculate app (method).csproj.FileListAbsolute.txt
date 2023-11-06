@@ -1,0 +1,6 @@
+C:\C#_Practicle\calculate app (method)\calculate app (method)\bin\Debug\calculate app (method).exe.config
+C:\C#_Practicle\calculate app (method)\calculate app (method)\bin\Debug\calculate app (method).exe
+C:\C#_Practicle\calculate app (method)\calculate app (method)\bin\Debug\calculate app (method).pdb
+C:\C#_Practicle\calculate app (method)\calculate app (method)\obj\Debug\calculate app (method).csprojResolveAssemblyReference.cache
+C:\C#_Practicle\calculate app (method)\calculate app (method)\obj\Debug\calculate app (method).exe
+C:\C#_Practicle\calculate app (method)\calculate app (method)\obj\Debug\calculate app (method).pdb

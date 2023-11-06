@@ -1,0 +1,6 @@
+C:\C#_Practicle\number manipulation class\number manipulation class\bin\Debug\number manipulation class.exe.config
+C:\C#_Practicle\number manipulation class\number manipulation class\obj\Debug\number manipulation class.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\number manipulation class\number manipulation class\bin\Debug\number manipulation class.exe
+C:\C#_Practicle\number manipulation class\number manipulation class\bin\Debug\number manipulation class.pdb
+C:\C#_Practicle\number manipulation class\number manipulation class\obj\Debug\number manipulation class.exe
+C:\C#_Practicle\number manipulation class\number manipulation class\obj\Debug\number manipulation class.pdb

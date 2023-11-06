@@ -1,0 +1,1 @@
+C:\C#_Practicle\vote\vote\bin\Debug\vote.exe.config

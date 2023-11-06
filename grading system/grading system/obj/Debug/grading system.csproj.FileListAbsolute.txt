@@ -1,0 +1,6 @@
+C:\C#_Practicle\grading system\grading system\bin\Debug\grading system.exe.config
+C:\C#_Practicle\grading system\grading system\obj\Debug\grading system.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\grading system\grading system\bin\Debug\grading system.exe
+C:\C#_Practicle\grading system\grading system\bin\Debug\grading system.pdb
+C:\C#_Practicle\grading system\grading system\obj\Debug\grading system.exe
+C:\C#_Practicle\grading system\grading system\obj\Debug\grading system.pdb

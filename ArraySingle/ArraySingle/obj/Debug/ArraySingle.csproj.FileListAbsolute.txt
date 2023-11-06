@@ -1,0 +1,6 @@
+C:\C#_Practicle\ArraySingle\ArraySingle\bin\Debug\ArraySingle.exe.config
+C:\C#_Practicle\ArraySingle\ArraySingle\bin\Debug\ArraySingle.exe
+C:\C#_Practicle\ArraySingle\ArraySingle\bin\Debug\ArraySingle.pdb
+C:\C#_Practicle\ArraySingle\ArraySingle\obj\Debug\ArraySingle.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\ArraySingle\ArraySingle\obj\Debug\ArraySingle.exe
+C:\C#_Practicle\ArraySingle\ArraySingle\obj\Debug\ArraySingle.pdb

@@ -1,0 +1,6 @@
+C:\C#_Practicle\loop-while\loop-while\bin\Debug\loop-while.exe.config
+C:\C#_Practicle\loop-while\loop-while\bin\Debug\loop-while.exe
+C:\C#_Practicle\loop-while\loop-while\bin\Debug\loop-while.pdb
+C:\C#_Practicle\loop-while\loop-while\obj\Debug\loop-while.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\loop-while\loop-while\obj\Debug\loop-while.exe
+C:\C#_Practicle\loop-while\loop-while\obj\Debug\loop-while.pdb

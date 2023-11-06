@@ -1,0 +1,6 @@
+C:\C#_Practicle\alligible\alligible\bin\Debug\alligible.exe.config
+C:\C#_Practicle\alligible\alligible\bin\Debug\alligible.exe
+C:\C#_Practicle\alligible\alligible\bin\Debug\alligible.pdb
+C:\C#_Practicle\alligible\alligible\obj\Debug\alligible.csprojResolveAssemblyReference.cache
+C:\C#_Practicle\alligible\alligible\obj\Debug\alligible.exe
+C:\C#_Practicle\alligible\alligible\obj\Debug\alligible.pdb
